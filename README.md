@@ -55,3 +55,76 @@ Using simulations in Python and visualizations via Jupyter Notebook, we examine 
 ## 💡 Why This Matters
 
 Understanding and optimizing RF communication protocols is critical in today’s world of growing wireless demands. From 5G to IoT, efficient spectrum use, robust error correction, and intelligent resource allocation are the foundation of reliable connectivity.
+
+---
+
+# 🌐 Connecting Light, Engineering & Intelligence: A Unified View of the Data Center
+
+## 📄 Overview
+
+This project presents a comprehensive, interdisciplinary perspective on the modern data center—where light, energy, and intelligence converge. The uploaded presentation, `Connecting-Light-Data-Engineering-and-Intelligence-A-Unified-View-of-the-Data-Center.pdf`, explores how optical communication, chemical engineering principles, data science, and radio frequency (RF) systems are interwoven to power today’s global digital infrastructure.
+
+---
+
+## 🧠 Key Topics Covered
+
+### 1. **Light vs. Electrical Communication**
+- Compare fiber optics and copper cables for latency, bandwidth, and efficiency.
+- Understand why optical fiber is preferred in core data center communication.
+
+### 2. **What Is a Data Center?**
+- Explore the physical and digital infrastructure that enables cloud services, AI workloads, and secure storage.
+
+### 3. **Chemical Engineering + Data Centers**
+- Learn how thermodynamics, humidity, dew point, and heat transfer principles apply to airflow and cooling systems.
+- Understand energy balance in sustainable data center design.
+
+### 4. **Data Science in Action**
+- Discover how data centers support large-scale machine learning, model deployment, and data analytics.
+- Includes formulas like:  
+  - Neural network: `σ(x) = 1 / (1 + e^(-x))`  
+  - Time series and power forecasting.
+
+### 5. **Radio Frequency (RF) & Data Collection**
+- Understand the synergy between RF sensors and data centers for real-time industrial and environmental monitoring.
+- Based on the Friis transmission equation for signal strength prediction.
+
+### 6. **Energy Management**
+- Predict and visualize power usage in data centers.
+- Highlight the importance of balancing machine loads, cooling demand, and uptime.
+
+---
+
+## 📊 Visual Examples Included
+
+| Topic                                   | Visual Included                          |
+|----------------------------------------|-------------------------------------------|
+| Light vs. Electrical Latency           | Line chart (fiber vs. copper latency)     |
+| Data Center Components                 | Resource distribution pie chart           |
+| ChemE Sensor Monitoring                | 24-hour temperature simulation            |
+| Neural Network Logic                   | Sigmoid activation function               |
+| RF Signal Propagation                  | Friis signal strength over distance       |
+| Power Forecasting                      | Hourly power usage in kW                  |
+
+---
+
+## 🛠 Use Cases
+
+- Educational material for STEM and data center operations
+- Career showcase for professionals in Chemical Engineering, RF Systems, and Data Science
+- Capstone reference for data infrastructure and AI deployment
+- Presentation framework for sustainability and energy optimization
+
+---
+
+## 👨‍💻 Author
+
+**Jemael Nzihou**  
+PhD Student | Chemical Engineering + Data Science + RF Systems  
+Veteran | Data Center Engineering Enthusiast  
+
+---
+
+## 📬 Feedback & Collaboration
+
+Feel free to open issues or submit pull requests to contribute, discuss, or expand this project.
