@@ -199,3 +199,64 @@ Packet Tracer is more than just a networking tool—it’s a **teaching and simu
 **Jemael Nzihou**  
 PhD Student | Chemical Engineering + Data Science + RF Systems  
 Veteran | Data Center Engineering Enthusiast  
+
+---
+
+# Traditional Network vs. Cloud Infrastructure
+
+![Topology Overview](https://github.com/jemaelnzihou/RF-Communication-and-Data-Science/blob/main/images/network-diagram.png) <!-- Update this image path if needed -->
+
+## 📘 Overview
+
+This project offers a comparative exploration of traditional enterprise network architectures and their modern cloud-based counterparts. It bridges foundational networking concepts—like ARP, routing, and switching—with cloud-native tools such as VPC routing tables, security groups, and elastic IPs.
+
+## 🔍 What's Inside
+
+- **Layer-by-layer topology breakdown**
+- **ARP & MAC resolution in real-world scenarios**
+- **Packet journey mapping from client to server**
+- **Bandwidth-Delay Product (BDP), TCP throughput, and queuing models**
+- **Security mapping: ACLs vs. Security Groups**
+- **Troubleshooting & cloud migration strategy**
+
+## 📊 Mathematical Models
+
+The PDF explores core network performance models:
+- **BDP (Bandwidth-Delay Product)**: `BDP = Bandwidth × RTT`
+- **TCP Throughput Formula**:  
+  `Throughput = (MSS / RTT) × (1 / √(2p/3))`
+- **Queuing Delay**: `Delay = (L × N) / R`
+
+These are essential for understanding latency, performance bottlenecks, and cloud capacity planning.
+
+## 🧠 Why It Matters
+
+As more infrastructures shift to the cloud, understanding how traditional models map to cloud equivalents (e.g., ENIs, routing tables) is vital for:
+- Cloud architects
+- Network engineers
+- Data scientists working in hybrid environments
+- Students preparing for CCNA or AWS certifications
+
+This guide also supports Zero Trust designs, autoscaling models, and real-time debugging.
+
+## 🔗 Academic References
+
+- [Understanding the Bandwidth-Delay Product](https://ieeexplore.ieee.org/document/4642183) — IEEE
+- [TCP Congestion Control Principles](https://datatracker.ietf.org/doc/html/rfc5681) — IETF RFC 5681
+- [Enterprise Network Design Best Practices](https://dl.acm.org/doi/10.1145/2620728.2620749) — ACM SIGCOMM
+- [Security and Policy Translation in Cloud Environments](https://www.sciencedirect.com/science/article/pii/S1389128617304281) — Elsevier
+- [Queuing Models and Performance Optimization](https://ieeexplore.ieee.org/document/5431970) — IEEE Transactions on Networking
+
+## 📂 File
+
+- [`Traditional-Network-vs-Cloud-Infrastructure.pdf`](https://github.com/jemaelnzihou/RF-Communication-and-Data-Science/blob/main/Traditional-Network-vs-Cloud-Infrastructure.pdf)
+
+## 👨‍💻 Author
+
+**Jemael Nzihou**  
+PhD Student | Chemical Engineering + Data Science + RF Systems  
+Veteran | Data Center Engineering Enthusiast  
+
+## 📫 Contact
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jemaelnzihou/) or reach out for collaboration or feedback.
