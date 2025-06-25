@@ -241,11 +241,13 @@ This guide also supports Zero Trust designs, autoscaling models, and real-time d
 
 ## 🔗 Academic References
 
-- [Understanding the Bandwidth-Delay Product](https://ieeexplore.ieee.org/document/4642183) — IEEE
 - [TCP Congestion Control Principles](https://datatracker.ietf.org/doc/html/rfc5681) — IETF RFC 5681
 - [Enterprise Network Design Best Practices](https://dl.acm.org/doi/10.1145/2620728.2620749) — ACM SIGCOMM
-- [Security and Policy Translation in Cloud Environments](https://www.sciencedirect.com/science/article/pii/S1389128617304281) — Elsevier
 - [Queuing Models and Performance Optimization](https://ieeexplore.ieee.org/document/5431970) — IEEE Transactions on Networking
+- [Bandwidth-delay product (Wikipedia)](https://en.wikipedia.org/wiki/Bandwidth-delay_product) - Bandwidth-Delay Product & TCP Performance
+- [Understanding bandwidth‑delay product in mobile ad hoc networks (Academia.edu)](https://www.academia.edu/2660456/Understanding_bandwidth_delay_product_in_mobile_ad_hoc_networks?uc-sb-sw=32258231) -Bandwidth-Delay Product 
+- [Adaptive Security Policy Management in Cloud Environments Using Reinforcement Learning (arXiv, 2025)](https://arxiv.org/abs/2505.08837) - Cloud Security & Policy Translation
+- [Towards Secure Management of Edge‑Cloud IoT Microservices using Policy as Code (arXiv, 2024)](https://arxiv.org/abs/2406.18813) - Security & Policy Translation
 
 ## 📂 File
 
