@@ -253,6 +253,76 @@ This guide also supports Zero Trust designs, autoscaling models, and real-time d
 
 - [`Traditional-Network-vs-Cloud-Infrastructure.pdf`](https://github.com/jemaelnzihou/RF-Communication-and-Data-Science/blob/main/Traditional-Network-vs-Cloud-Infrastructure.pdf)
 
+---
+
+# 📡 Packet Tracer, IoT & Cybersecurity
+
+This presentation outlines how **Cisco Packet Tracer** supports simulation of real-world smart home and IoT networks, integrates key **networking math**, and demonstrates fundamental **cybersecurity principles**.
+
+---
+
+## 🎯 Overview
+
+*Title*  
+> *Packet Tracer, IoT & Cybersecurity* — Exploring simulation tools, network math, and secure smart-home setups.
+
+*What Is Packet Tracer?*  
+> Cisco’s virtual lab for building, testing, and visualizing networks with routers, switches, PCs, IoT, and security layers.
+
+*Context*  
+> Shows a lab with a wireless router (WRT300N), server, printer, and laptop over Wi-Fi.
+
+*Real-World Scenarios*  
+> Smart-home automation, DHCP, DNS, HTTP, Wi-Fi vs Ethernet, ACLs, VLANs, and firewall setups.
+
+*Why It Matters for Cybersecurity*  
+> Test spoofing, sniffing, DoS, enforce CIA Triad: Confidentiality, Integrity, Availability.
+
+*Example Attack Simulations*  
+> MITM with ARP spoofing, data leaks, ACL bypasses, stress tests for DoS.
+
+*Network Math & Cybersecurity*  
+> - **BDP:** Bandwidth × RTT — prevents buffer overflow, DoS  
+> - **Shannon-Hartley:** Max channel capacity  
+> - **Bayesian IDS:** Detect intrusions with probability  
+> - **Graph Theory:** Network mapping, rule optimization
+
+*Integration in Packet Tracer*  
+> Realtime vs Simulation mode, test PDUs, observe buffer and SNR.
+
+*Security Modeling Techniques*  
+> ACLs, VLANs, DHCP snooping, ARP protection, simulate flood attacks.
+
+*Cyber-Attack Examples*  
+> ARP spoofing, sniffing unencrypted data, brute force demo.
+
+*Why It Matters*  
+> Safe sandbox to learn and apply math, test vulnerabilities, teach CCNA/IoT/Cybersecurity labs.
+
+*References & Further Reading* (see below)
+
+---
+
+## 📚 Academic References
+
+- **Khan, M. A., & Salah, K. (2018).** *IoT Security: Review, Blockchain Solutions, and Open Challenges.*  
+  [Future Generation Computer Systems](https://doi.org/10.1016/j.future.2017.11.022)
+
+- **Xie, J., & Murase, T. (2020).** *Multiple User Cooperative Mobility in Mobile Ad Hoc Networks.*  
+  [IEEE Access](https://doi.org/10.1109/access.2020.3007931)
+
+- **Jurcut, A. et al. (2020).** *Security Considerations for IoT: A Survey.*  
+  [arXiv preprint](https://arxiv.org/abs/2003.05460)
+
+- **Commey, D. et al. (2024).** *Securing Blockchain-Based IoT Systems: A Review.*  
+  [IEEE Access](https://doi.org/10.1109/access.2024.3428490)  
+  [ResearchGate](https://www.researchgate.net/publication/382287644_Securing_Blockchain-based_IoT_Systems_A_Review)
+
+- **Zhang, C., Costa-Perez, X., & Patras, P. (2022).** *Adversarial Attacks Against Deep Learning-Based Network Intrusion Detection Systems and Defense Mechanisms.*  
+  [IEEE/ACM Transactions on Networking](https://doi.org/10.1109/tnet.2021.3137084)
+
+---
+
 ## 👨‍💻 Author
 
 **Jemael Nzihou**  
