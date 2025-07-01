@@ -362,11 +362,13 @@ Big data is transforming how modern businesses collect, process, and turn massiv
   1. https://doi.org/10.1016/j.ijinfomgt.2014.10.007
   2. https://doi.org/10.1145/2611567
   3. https://doi.org/10.1007/s11036-013-0489-0
+     
 ## Clickstream Analysis
   4. https://doi.org/10.1287/mksc.1040.0073
 ## Sentiment Analysis
-  5.https://doi.org/10.2200/S00416ED1V01Y201204HLT016
-  6.https://doi.org/10.1561/1500000011
+  5. https://doi.org/10.2200/S00416ED1V01Y201204HLT016
+  
+  6. https://doi.org/10.1561/1500000011
   
 ---
 ## 👨‍💻 Author
