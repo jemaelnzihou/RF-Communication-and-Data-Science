@@ -322,7 +322,53 @@ This presentation outlines how **Cisco Packet Tracer** supports simulation of re
   [IEEE/ACM Transactions on Networking](https://doi.org/10.1109/tnet.2021.3137084)
 
 ---
+# 📊 Big Data Concepts — E-Commerce Clickstream & Sentiment Analysis
 
+This repository demonstrates key **big data concepts and terminology** through a practical **Python scenario**: analyzing customer clickstream data and product reviews for a fictional e-commerce store.
+
+---
+
+## 🚀 Project Overview
+
+Big data is transforming how modern businesses collect, process, and turn massive amounts of information into actionable insights. This mini project simulates:
+- Real-time **clickstream data** to show customer browsing behavior
+- **Sentiment analysis** of unstructured customer reviews
+- **Visualizations** to transform raw data into clear, data-driven business insights
+
+---
+
+## 📂 What’s Included
+
+- **`Big data concepts with E-commerce scenario.ipynb`** — A Jupyter Notebook with:
+  - Simulated clickstream generation
+  - Data aggregation with `pandas`
+  - Sentiment analysis with `TextBlob`
+  - Visualizations: bar chart, histogram, word cloud with `matplotlib` and `wordcloud`
+
+- Example outputs: sample clickstream table, clicks per product, sentiment histogram, and review word cloud.
+
+---
+
+## 🧰 Technologies Used
+
+- **Python 3.x**
+- `pandas` — Data manipulation
+- `numpy` — Random data simulation
+- `matplotlib` — Data visualization
+- `wordcloud` — Generate word cloud images
+- `textblob` — Simple sentiment analysis
+
+## Big Data Concepts
+  1. https://doi.org/10.1016/j.ijinfomgt.2014.10.007
+  2. https://doi.org/10.1145/2611567
+  3. https://doi.org/10.1007/s11036-013-0489-0
+## Clickstream Analysis
+  4. https://doi.org/10.1287/mksc.1040.0073
+## Sentiment Analysis
+  5.https://doi.org/10.2200/S00416ED1V01Y201204HLT016
+  6.https://doi.org/10.1561/1500000011
+  
+---
 ## 👨‍💻 Author
 
 **Jemael Nzihou**  
